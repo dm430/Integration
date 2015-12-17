@@ -1,0 +1,7 @@
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\bin\Debug\MyDataTests.dll
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\bin\Debug\MyDataTests.pdb
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\bin\Debug\MyData.dll
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\bin\Debug\MyData.pdb
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\obj\Debug\MyDataTests.csprojResolveAssemblyReference.cache
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\obj\Debug\MyDataTests.dll
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyDataTests\obj\Debug\MyDataTests.pdb

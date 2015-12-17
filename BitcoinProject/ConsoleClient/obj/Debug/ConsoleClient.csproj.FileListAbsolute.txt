@@ -1,0 +1,10 @@
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\Client.exe
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\MyData.dll
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\Client.pdb
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\bin\Debug\MyData.pdb
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\ConsoleClient\obj\Debug\ConsoleClient.pdb

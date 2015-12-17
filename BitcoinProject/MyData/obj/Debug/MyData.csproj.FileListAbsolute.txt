@@ -1,0 +1,4 @@
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyData\bin\Debug\MyData.dll
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyData\bin\Debug\MyData.pdb
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyData\obj\Debug\MyData.dll
+C:\Users\Devin Wall\Documents\Visual Studio 2013\Projects\P2P POC\BitcoinProject\MyData\obj\Debug\MyData.pdb
