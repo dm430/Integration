@@ -15,21 +15,23 @@ namespace POC {
         }
 
         public Program() {
-                Console.WriteLine("Please enter a user name.");
-                string userName = Console.ReadLine();
+            Console.Title = "Chat";
+            Console.WriteLine("Please enter a user name.");
+            string userName = Console.ReadLine();
+            Console.Title = "Chat: Signed in as " + userName;
 
-                node = new P2PNode(new byte[] { 192, 168, 3, 234 });
-                node.RegisterListener(new ChatListener());
+            node = new P2PNode(new byte[] { 192, 168, 3, 234 });
+            node.RegisterListener(new ChatListener());
 
-                UserRegistration registration = new UserRegistration() {
-                    UserName = userName,
-                    PublicKey = "not implemented.................", // must be 32 characters long
-                    Timestamp = DateTime.Now.ToBinary()
-                };
+            UserRegistration registration = new UserRegistration() {
+                UserName = userName,
+                PublicKey = "not implemented.................", // must be 32 characters long
+                Timestamp = DateTime.Now.ToBinary()
+            };
+            
+            node.RegisterUser(registration);
 
-                node.RegisterUser(registration);
-
-                StartChat();
+            StartChat();
         }
 
         private void StartChat() {
@@ -46,6 +48,10 @@ namespace POC {
                     SendMessage(message);
                 }
             }
+
+            Console.WriteLine("Good bye!");
+            System.Threading.Thread.Sleep(2000);
+            System.Environment.Exit(1);
         }
 
         private void SendMessage(string message) {
